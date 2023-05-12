@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost" name="Tomcat v9.0 Server at localhost" runtime-id="Apache Tomcat v9.0" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="8">
+    <list key="modules" value0="New MVC::org.eclipse.jst.j2ee.server:New MVC::jst.web::2.4" value1="New MVC2::org.eclipse.jst.j2ee.server:New MVC2::jst.web::2.4" value2="New MVC3 Models::org.eclipse.jst.j2ee.server:New MVC3 Models::jst.web::2.4" value3="New MVC3 Models And Views::org.eclipse.jst.j2ee.server:New MVC3 Models And Views::jst.web::2.4" value4="Input And Radio Spring::org.eclipse.jst.j2ee.server:Input And Radio Spring::jst.web::2.4"/>
+  </server>
+</servers>

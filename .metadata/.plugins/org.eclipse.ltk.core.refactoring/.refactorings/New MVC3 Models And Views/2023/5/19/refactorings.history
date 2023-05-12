@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;New MVC3 Models And Views/src/main/webapp/view/look.jsp&apos; to &apos;submitdetail.jsp&apos;" description="Rename resource &apos;look.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/view/look.jsp" name="submitdetail.jsp" stamp="1683786499445" updateReferences="true"/>
+</session>
